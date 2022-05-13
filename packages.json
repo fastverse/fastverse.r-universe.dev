@@ -46,5 +46,77 @@
     {
         "package": "fixest",
         "url": "https://github.com/lrberge/fixest"
+    },
+    {
+        "package": "lubridate",
+        "url": "https://github.com/tidyverse/lubridate"
+    },
+    {
+        "package": "anytime",
+        "url": "https://github.com/eddelbuettel/anytime"
+    },
+    {
+        "package": "nanotime",
+        "url": "https://github.com/eddelbuettel/nanotime"
+    },
+    {
+        "package": "fasttime",
+        "url": "https://github.com/s-u/fasttime"
+    },
+    {
+        "package": "clock",
+        "url": "https://github.com/r-lib/clock"
+    },  
+    {
+        "package": "timechange",
+        "url": "https://github.com/vspinu/timechange"
+    },  
+    {
+        "package": "stringi",
+        "url": "https://github.com/gagolews/stringi"
+    },  
+    {
+        "package": "stringr",
+        "url": "https://github.com/tidyverse/stringr"
+    }, 
+    {
+        "package": "snakecase",
+        "url": "https://github.com/Tazinho/snakecase"
+    }, 
+    {
+        "package": "stringfish",
+        "url": "https://github.com/traversc/stringfish"
+    }, 
+    {
+        "package": "stringdist",
+        "url": "https://github.com/markvanderloo/stringdist"
+    }, 
+    {
+        "package": "Rfast2",
+        "url": "https://github.com/RfastOfficial/Rfast2"
+    }, 
+    {
+        "package": "parallelDist",
+        "url": "https://github.com/alexeckert/parallelDist"
+    }, 
+    {
+        "package": "coop",
+        "url": "https://github.com/wrathematics/coop"
+    }, 
+    {
+        "package": "rsparse",
+        "url": "https://cran.r-project.org/package=rsparse"
+    }, 
+    {
+        "package": "MatrixExtra",
+        "url": "https://cran.r-project.org/package=MatrixExtra"
+    }, 
+    {
+        "package": "rrapply",
+        "url": "https://cran.r-project.org/package=rrapply"
+    }, 
+    {
+        "package": "tidytable",
+        "url": "https://github.com/markfairbanks/tidytable"
     }
 ]
