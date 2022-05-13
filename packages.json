@@ -1,0 +1,50 @@
+[
+    {
+        "package": "fastverse",
+        "url": "https://github.com/SebKrantz/fastverse"
+    },
+    {
+        "package": "collapse",
+        "url": "https://github.com/SebKrantz/collapse"
+    },
+    {
+        "package": "data.table",
+        "url": "https://github.com/Rdatatable/data.table"
+    },
+    {
+        "package": "matrixStats",
+        "url": "https://github.com/HenrikBengtsson/matrixStats"
+    },
+    {
+        "package": "kit",
+        "url": "https://github.com/2005m/kit"
+    },
+    {
+        "package": "magrittr",
+        "url": "https://github.com/tidyverse/magrittr"
+    },
+    {
+        "package": "fst",
+        "url": "https://github.com/fstpackage/fst"
+    },
+    {
+        "package": "xts",
+        "url": "https://github.com/joshuaulrich/xts"
+    },
+    {
+        "package": "roll",
+        "url": "https://github.com/jjf234/roll"
+    },
+    {
+        "package": "Rfast",
+        "url": "https://github.com/RfastOfficial/Rfast"
+    },
+    {
+        "package": "qs",
+        "url": "https://github.com/traversc/qs"
+    },
+    {
+        "package": "fixest",
+        "url": "https://github.com/lrberge/fixest"
+    }
+]
