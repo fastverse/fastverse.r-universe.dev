@@ -89,7 +89,8 @@
     }, 
     {
         "package": "stringdist",
-        "url": "https://github.com/markvanderloo/stringdist/tree/master/pkg"
+        "url": "https://github.com/markvanderloo/stringdist",
+        "subdir": "pkg"
     }, 
     {
         "package": "Rfast2",
