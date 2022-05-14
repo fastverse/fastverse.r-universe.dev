@@ -119,5 +119,13 @@
     {
         "package": "tidytable",
         "url": "https://github.com/markfairbanks/tidytable"
+    },
+    {
+        "package": "fastmatch",
+        "url": "https://github.com/s-u/fastmatch"
+    },
+    {
+        "package": "fastmap",
+        "url": "https://github.com/r-lib/fastmap"
     }
 ]
