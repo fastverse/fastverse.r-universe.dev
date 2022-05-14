@@ -89,7 +89,7 @@
     }, 
     {
         "package": "stringdist",
-        "url": "https://github.com/markvanderloo/stringdist"
+        "url": "https://github.com/markvanderloo/stringdist/tree/master/pkg"
     }, 
     {
         "package": "Rfast2",
@@ -105,15 +105,15 @@
     }, 
     {
         "package": "rsparse",
-        "url": "https://cran.r-project.org/package=rsparse"
+        "url": "https://github.com/rexyai/rsparse"
     }, 
     {
         "package": "MatrixExtra",
-        "url": "https://cran.r-project.org/package=MatrixExtra"
+        "url": "https://github.com/david-cortes/MatrixExtra"
     }, 
     {
         "package": "rrapply",
-        "url": "https://cran.r-project.org/package=rrapply"
+        "url": "https://github.com/JorisChau/rrapply"
     }, 
     {
         "package": "tidytable",
