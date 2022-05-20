@@ -127,5 +127,30 @@
     {
         "package": "fastmap",
         "url": "https://github.com/r-lib/fastmap"
+    },
+    {
+        "package": "tidyfast",
+        "url": "https://github.com/TysonStanley/tidyfast"
+    },
+    {
+        "package": "tidyfst",
+        "url": "https://github.com/hope-data-science/tidyfst"
+    },
+    {
+        "package": "tidyft",
+        "url": "https://github.com/hope-data-science/tidyft"
+    },
+    {
+        "package": "maditr",
+        "url": "https://github.com/gdemin/maditr"
+    },
+    {
+        "package": "geos",
+        "url": "https://github.com/paleolimbot/geos"
+    },
+    {
+        "package": "arrow",
+        "url": "https://github.com/apache/arrow",
+        "subdir": "r"
     }
 ]
