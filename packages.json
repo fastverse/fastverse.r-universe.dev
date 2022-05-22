@@ -152,5 +152,9 @@
         "package": "arrow",
         "url": "https://github.com/apache/arrow",
         "subdir": "r"
+    },
+    {
+        "package": "dqrng",
+        "url": "https://github.com/daqana/dqrng"
     }
 ]
