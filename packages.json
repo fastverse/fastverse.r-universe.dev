@@ -183,11 +183,7 @@
     },
     {
         "package": "duckdb",
-        "url": "https://github.com/duckdb/duckdb"
-    },
-    {
-        "package": "duckdb",
-        "url": "https://github.com/duckdb/duckdb"
+        "url": "https://github.com/duckdb/duckdb",
         "subdir": "tools/rpkg"
     },
     {
