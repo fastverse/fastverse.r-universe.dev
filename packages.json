@@ -156,5 +156,98 @@
     {
         "package": "dqrng",
         "url": "https://github.com/daqana/dqrng"
+    },
+    {
+        "package": "vctrs",
+        "url": "https://github.com/r-lib/vctrs"
+    },
+    {
+        "package": "fastmatrix",
+        "url": "https://github.com/faosorios/fastmatrix"
+    },
+    {
+        "package": "matrixTests",
+        "url": "https://github.com/karoliskoncevicius/matrixTests"
+    },
+    {
+        "package": "hutilscpp",
+        "url": "https://github.com/hughparsonage/hutilscpp"
+    },
+    {
+        "package": "dtplyr",
+        "url": "https://github.com/tidyverse/dtplyr"
+    },
+    {
+        "package": "table.express",
+        "url": "https://github.com/asardaes/table.express"
+    },
+    {
+        "package": "duckdb",
+        "url": "https://github.com/duckdb/duckdb"
+    },
+    {
+        "package": "duckdb",
+        "url": "https://github.com/duckdb/duckdb"
+        "subdir": "tools/rpkg"
+    },
+    {
+        "package": "vroom",
+        "url": "https://github.com/tidyverse/vroom"
+    },
+    {
+        "package": "nCompiler",
+        "url": "https://github.com/nimble-dev/nCompiler"
+    },
+    {
+        "package": "ast2ast",
+        "url": "https://github.com/Konrad1991/ast2ast"
+    },
+    {
+        "package": "odin",
+        "url": "https://github.com/mrc-ide/odin"
+    },
+    {
+        "package": "armacmp",
+        "url": "https://github.com/dirkschumacher/armacmp"
+    },
+    {
+        "package": "r2c",
+        "url": "https://github.com/brodieG/r2c"
+    },
+    {
+        "package": "inline",
+        "url": "https://github.com/eddelbuettel/inline"
+    },
+    {
+        "package": "Rcpp",
+        "url": "https://github.com/RcppCore/Rcpp"
+    },
+    {
+        "package": "cpp11",
+        "url": "https://github.com/r-lib/cpp11"
+    },
+    {
+        "package": "tidyCpp",
+        "url": "https://github.com/eddelbuettel/tidycpp"
+    },
+    {
+        "package": "JuliaCall",
+        "url": "https://github.com/Non-Contradiction/JuliaCall"
+    },
+    {
+        "package": "XRJulia",
+        "url": "https://github.com/johnmchambers/XRJulia"
+    }, 
+    {
+        "package": "JuliaConnectoR",
+        "url": "https://github.com/stefan-m-lenz/JuliaConnectoR"
+    }, 
+    {
+        "package": "rextendr",
+        "url": "https://github.com/extendr/rextendr"
+    }, 
+    {
+        "package": "rJava",
+        "url": "https://github.com/s-u/rJava"
     }
 ]
