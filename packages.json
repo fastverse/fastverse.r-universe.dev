@@ -245,5 +245,9 @@
     {
         "package": "rJava",
         "url": "https://github.com/s-u/rJava"
+    },
+    {
+        "package": "s2",
+        "url": "https://github.com/r-spatial/s2"
     }
 ]
