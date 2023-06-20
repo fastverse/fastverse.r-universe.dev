@@ -105,10 +105,6 @@
         "url": "https://github.com/wrathematics/coop"
     }, 
     {
-        "package": "rsparse",
-        "url": "https://github.com/rexyai/rsparse"
-    }, 
-    {
         "package": "MatrixExtra",
         "url": "https://github.com/david-cortes/MatrixExtra"
     }, 
@@ -163,7 +159,8 @@
     },
     {
         "package": "fastmatrix",
-        "url": "https://github.com/faosorios/fastmatrix"
+        "url": "https://github.com/faosorios/fastmatrix",
+        "subdir": "pkg"
     },
     {
         "package": "matrixTests",
@@ -192,7 +189,8 @@
     },
     {
         "package": "nCompiler",
-        "url": "https://github.com/nimble-dev/nCompiler"
+        "url": "https://github.com/nimble-dev/nCompiler",
+        "subdir": "nCompiler"
     },
     {
         "package": "ast2ast",
@@ -242,10 +240,6 @@
         "package": "rextendr",
         "url": "https://github.com/extendr/rextendr"
     }, 
-    {
-        "package": "rJava",
-        "url": "https://github.com/s-u/rJava"
-    },
     {
         "package": "s2",
         "url": "https://github.com/r-spatial/s2"
