@@ -188,11 +188,6 @@
         "url": "https://github.com/tidyverse/vroom"
     },
     {
-        "package": "nCompiler",
-        "url": "https://github.com/nimble-dev/nCompiler",
-        "subdir": "nCompiler"
-    },
-    {
         "package": "ast2ast",
         "url": "https://github.com/Konrad1991/ast2ast"
     },
@@ -243,9 +238,5 @@
     {
         "package": "s2",
         "url": "https://github.com/r-spatial/s2"
-    },
-    {
-        "package": "polars",
-        "url": "https://github.com/pola-rs/r-polars"
     }
 ]
