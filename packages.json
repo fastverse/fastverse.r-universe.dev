@@ -243,5 +243,9 @@
     {
         "package": "s2",
         "url": "https://github.com/r-spatial/s2"
+    },
+    {
+        "package": "polars",
+        "url": "https://github.com/pola-rs/r-polars"
     }
 ]
