@@ -179,11 +179,6 @@
         "url": "https://github.com/asardaes/table.express"
     },
     {
-        "package": "duckdb",
-        "url": "https://github.com/duckdb/duckdb",
-        "subdir": "tools/rpkg"
-    },
-    {
         "package": "vroom",
         "url": "https://github.com/tidyverse/vroom"
     },
