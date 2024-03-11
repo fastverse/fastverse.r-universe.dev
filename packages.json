@@ -233,5 +233,9 @@
     {
         "package": "s2",
         "url": "https://github.com/r-spatial/s2"
+    },
+    {
+        "package": "dggridR",
+        "url": "https://github.com/SebKrantz/dggridR"
     }
 ]
