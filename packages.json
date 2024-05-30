@@ -237,5 +237,29 @@
     {
         "package": "dggridR",
         "url": "https://github.com/SebKrantz/dggridR"
+    },
+    {
+        "package": "stars",
+        "url": "https://github.com/r-spatial/stars"
+    },
+    {
+        "package": "terra",
+        "url": "https://github.com/rspatial/terra"
+    },
+    {
+        "package": "exactextractr",
+        "url": "https://github.com/isciences/exactextractr"
+    },
+    {
+        "package": "geodist",
+        "url": "https://github.com/hypertidy/geodist"
+    },
+    {
+        "package": "cppRouting",
+        "url": "https://github.com/vlarmet/cppRouting"
+    },
+    {
+        "package": "igraph",
+        "url": "https://github.com/igraph/rigraph"
     }
 ]
