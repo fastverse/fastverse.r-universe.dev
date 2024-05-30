@@ -76,10 +76,6 @@
         "url": "https://github.com/gagolews/stringi"
     },  
     {
-        "package": "stringr",
-        "url": "https://github.com/tidyverse/stringr"
-    }, 
-    {
         "package": "snakecase",
         "url": "https://github.com/Tazinho/snakecase"
     }, 
