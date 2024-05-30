@@ -261,5 +261,9 @@
     {
         "package": "igraph",
         "url": "https://github.com/igraph/rigraph"
+    },
+    {
+        "package": "tinyplot",
+        "url": "https://github.com/grantmcdermott/tinyplot"
     }
 ]
