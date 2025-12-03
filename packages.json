@@ -32,6 +32,10 @@
         "url": "https://github.com/joshuaulrich/xts"
     },
     {
+        "package": "zoo",
+        "url": "https://github.com/r-forge/zoo"
+    },
+    {
         "package": "roll",
         "url": "https://github.com/jasonjfoster/roll"
     },
@@ -42,6 +46,10 @@
     {
         "package": "qs",
         "url": "https://github.com/traversc/qs"
+    },
+    {
+        "package": "quickr",
+        "url": "https://github.com/t-kalinowski/quickr"
     },
     {
         "package": "fixest",
@@ -70,6 +78,10 @@
     {
         "package": "timechange",
         "url": "https://github.com/vspinu/timechange"
+    },
+    {
+        "package": "timeplyr",
+        "url": "https://github.com/NicChr/timeplyr"
     },  
     {
         "package": "stringi",
@@ -82,7 +94,7 @@
     {
         "package": "stringfish",
         "url": "https://github.com/traversc/stringfish"
-    }, 
+    },
     {
         "package": "stringdist",
         "url": "https://github.com/markvanderloo/stringdist",
@@ -121,6 +133,10 @@
         "url": "https://github.com/r-lib/fastmap"
     },
     {
+        "package": "fastplyr",
+        "url": "https://github.com/NicChr/fastplyr"
+    },
+    {
         "package": "tidyfast",
         "url": "https://github.com/TysonStanley/tidyfast"
     },
@@ -141,6 +157,10 @@
         "url": "https://github.com/paleolimbot/geos"
     },
     {
+        "package": "sf",
+        "url": "https://github.com/r-spatial/sf"
+    },
+    {
         "package": "arrow",
         "url": "https://github.com/apache/arrow",
         "subdir": "r"
@@ -152,6 +172,30 @@
     {
         "package": "vctrs",
         "url": "https://github.com/r-lib/vctrs"
+    },
+    {
+        "package": "broadcast",
+        "url": "https://github.com/tony-aw/broadcast"
+    },
+    {
+        "package": "SLmetrics",
+        "url": "https://github.com/serkor1/SLmetrics"
+    },
+    {
+        "package": "RcppAlgos",
+        "url": "https://github.com/jwood000/RcppAlgos"
+    },
+    {
+        "package": "collections",
+        "url": "https://github.com/randy3k/collections"
+    },
+    {
+        "package": "stdvectors",
+        "url": "https://github.com/digEmAll/stdvectors"
+    },
+    {
+        "package": "cheapr",
+        "url": "https://github.com/NicChr/cheapr"
     },
     {
         "package": "fastmatrix",
@@ -179,8 +223,29 @@
         "url": "https://github.com/tidyverse/vroom"
     },
     {
+        "package": "polars",
+        "url": "https://github.com/pola-rs/r-polars"
+    },
+    {
+        "package": "tidypolars",
+        "url": "https://github.com/etiennebacher/tidypolars"
+    },
+    {
+        "package": "duckplyr",
+        "url": "https://github.com/tidyverse/duckplyr"
+    },
+    {
+        "package": "duckdb",
+        "url": "https://github.com/duckdb/duckdb",
+        "subdir": "tools/rpkg"
+    },
+    {
         "package": "ast2ast",
         "url": "https://github.com/Konrad1991/ast2ast"
+    },
+    {
+        "package": "nCompiler",
+        "url": "https://github.com/nimble-dev/nCompiler"
     },
     {
         "package": "odin",
@@ -225,6 +290,10 @@
     {
         "package": "rextendr",
         "url": "https://github.com/extendr/rextendr"
+    },
+    {
+        "package": "rJava",
+        "url": "https://github.com/s-u/rJava"
     }, 
     {
         "package": "s2",
@@ -261,6 +330,26 @@
     {
         "package": "tinyplot",
         "url": "https://github.com/grantmcdermott/tinyplot"
+    },
+    {
+        "package": "lattice",
+        "url": "https://github.com/deepayan/lattice"
+    },
+    {
+        "package": "ggplot2",
+        "url": "https://github.com/tidyverse/ggplot2"
+    },
+    {
+        "package": "scales",
+        "url": "https://github.com/r-lib/scales"
+    },
+    {
+        "package": "scattermore",
+        "url": "https://github.com/exaexa/scattermore"
+    },
+    {
+        "package": "ggrastr",
+        "url": "https://github.com/VPetukhov/ggrastr"
     },
     {
         "package": "mirai",
